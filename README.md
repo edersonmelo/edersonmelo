@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/edersonmelo" target="blank"><img src="https://img.shields.io/twitter/follow/edersonmelo?logo=twitter&style=for-the-badge" alt="edersonmelo" /></a> </p>
 
-- 🔭 I’m currently working on [Patriots Analytica](https://github.com/patriotsanalytica)
+- 🔭 I’m currently working on [lingi](https://github.com/lingi-me)
 
 - 🌱 I’m currently learning **Dart, Flutter, Bigdata, Information Security**
 
