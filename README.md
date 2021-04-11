@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently working on [lingi](https://github.com/lingi-me)
 
-- 🌱 I’m currently learning **Dart, Flutter, Bigdata, Information Security**
+- 🌱 I’m currently learning **Liderança, Especialista PNL, Scrum, Kanban, Seis Sigma, Mobile, Segurança da Informação, Big Data, Cloud, Cristão, Pai, Corrida**
 
 - 📝 I regulary write articles on [https://edersonmelo.com/](https://edersonmelo.com/)
 
-- 💬 Ask me about **Dart, Flutter, Bigdata, Information Security**
-
-- 📫 How to reach me **edersonmelo@gmail.com**
+- 💬 Ask me about **Liderança, Especialista PNL, Scrum, Kanban, Seis Sigma, Mobile, Segurança da Informação, Big Data, Cloud, Cristão, Pai, Corrida**
 
 - 📄 Know about my experiences [☀️ Liderança | Especialista PNL 🧭 Scrum • Kanban • Seis Sigma 🚀 Mobile, Segurança da Informação, Big Data, Cloud, Cristão, Pai, Corrida.]
 
