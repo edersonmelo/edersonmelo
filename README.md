@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ederson Melo</h1>
-<h3 align="center">☀️ Liderança | Especialista PNL
-🧭 Scrum • Kanban • Seis Sigma
-🚀 Mobile, Segurança da Informação, Big Data, Cloud, Cristão, Pai, Corrida.</h3>
+<h3 align="center">☀️ Liderança | Especialista PNL 🧭 Scrum • Kanban • Seis Sigma 🚀 Mobile, Segurança da Informação, Big Data, Cloud, Cristão, Pai, Corrida.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edersonmelo&label=Profile%20views&color=0e75b6&style=flat" alt="edersonmelo" /> </p>
 
@@ -19,11 +17,7 @@
 
 - 📫 How to reach me **edersonmelo@gmail.com**
 
-- 📄 Know about my experiences [☀️ Liderança | Especialista PNL
-🧭 Scrum • Kanban • Seis Sigma
-🚀 Mobile, Segurança da Informação, Big Data, Cloud, Cristão, Pai, Corrida.](☀️ Liderança | Especialista PNL
-🧭 Scrum • Kanban • Seis Sigma
-🚀 Mobile, Segurança da Informação, Big Data, Cloud, Cristão, Pai, Corrida.)
+- 📄 Know about my experiences [☀️ Liderança | Especialista PNL 🧭 Scrum • Kanban • Seis Sigma 🚀 Mobile, Segurança da Informação, Big Data, Cloud, Cristão, Pai, Corrida.]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
