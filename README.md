@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ederson Melo</h1>
-<h3 align="center">☀️ Liderança | Especialista PNL 🧭 Scrum • Kanban • Seis Sigma 🚀 Mobile, Segurança da Informação, Big Data, Cloud, Cristão, Pai, Corrida.</h3>
+<h3 align="center">🧭Scrum Master
+🚀Mobile • CyberSecurity • BigData
+☀️Cristão • Pai • Esportes
+🎮Battlefield • f1
+💬Head Of Social Media @clubedalista • @lingiapp</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edersonmelo&label=Profile%20views&color=0e75b6&style=flat" alt="edersonmelo" /> </p>
 
@@ -15,7 +19,11 @@
 
 - 💬 Ask me about **Liderança, Especialista PNL, Scrum, Kanban, Seis Sigma, Mobile, Segurança da Informação, Big Data, Cloud, Cristão, Pai, Corrida**
 
-- 📄 Know about my experiences [☀️ Liderança | Especialista PNL 🧭 Scrum • Kanban • Seis Sigma 🚀 Mobile, Segurança da Informação, Big Data, Cloud, Cristão, Pai, Corrida.]
+- 📄 Know about my experiences [🧭Scrum Master
+🚀Mobile • CyberSecurity • BigData
+☀️Cristão • Pai • Esportes
+🎮Battlefield • f1
+💬Head Of Social Media @clubedalista • @lingiapp]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,7 +33,7 @@
 <p align="left">
 <a href="https://twitter.com/edersonmelo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="edersonmelo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/edersonmelo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edersonmelo" height="30" width="40" /></a>
-<a href="https://instagram.com/ederson_melo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ederson_melo" height="30" width="40" /></a>
+<a href="https://instagram.com/edersonmmelo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="edersonmmelo" height="30" width="40" /></a>
 <a href="https://medium.com/@edersonmelo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@edersonmelo" height="30" width="40" /></a>
 </p>
 
