@@ -4,7 +4,7 @@
  
  💬 I'm on Twitter https://twitter.com/shanselman
  
- 🚀 Head Of Social Media @clubedalista • @lingiapp]
+ 🚀 Head Of Social Media @clubedalista • @lingiapp
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edersonmelo&label=Profile%20views&color=0e75b6&style=flat" alt="edersonmelo" /> </p>
 
