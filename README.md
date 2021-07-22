@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/edersonmelo" target="blank"><img src="https://img.shields.io/twitter/follow/edersonmelo?logo=twitter&style=for-the-badge" alt="edersonmelo" /></a> </p>
 
-- 🌱 I regulary write articles on https://edersonmelo.com
-- 💬 I'm on Twitter https://twitter.com/shanselman
-- 🚀 Head Of Social Media @clubedalista • @lingiapp]
+ 🌱 I regulary write articles on https://edersonmelo.com
+ 💬 I'm on Twitter https://twitter.com/shanselman
+ 🚀 Head Of Social Media @clubedalista • @lingiapp]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
