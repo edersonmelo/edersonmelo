@@ -2,7 +2,7 @@
 
  🌱 I regulary write articles on https://edersonmelo.com
  
- 💬 I'm on Twitter https://twitter.com/shanselman
+ 💬 I'm on Twitter https://twitter.com/edersonmelo
  
  🚀 Head Of Social Media @clubedalista • @lingiapp
 
