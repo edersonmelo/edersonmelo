@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ederson Melo</h1>
 
- Linkedin https://www.linkedin.com/in/edersonmelo
+ 💙	Linkedin https://www.linkedin.com/in/edersonmelo
  
  🌱 I regulary write articles on https://medium.com/edersonmelo
  
