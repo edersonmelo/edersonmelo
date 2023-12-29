@@ -2,7 +2,6 @@
 
  💙	My Linkedin and where I also regularly write articles https://www.linkedin.com/in/edersonmelo
  
- 💬 I'm on Twitter https://twitter.com/edersonmelo
  
 <h3 align="left">Interests</h3>
 <p align="left">
