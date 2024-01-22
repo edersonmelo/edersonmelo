@@ -20,6 +20,7 @@ Meus links, me siga nas outras redes sociais: https://edersonmelo.com
 ---
 
 :rocket: I've been a Software Engineer for 20 years | Sr Tech Lead at @eybrasil
+
 :compass: I speak and live Technology, Innovation, Leadership, Artificial Intelligence, Machine Learning, Master Black Belt, Data Science, DEPC®
 
 💙 My Linkedin is where I also write articles regularly https://www.linkedin.com/in/edersonmelo
