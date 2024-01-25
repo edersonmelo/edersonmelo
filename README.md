@@ -11,7 +11,7 @@
 </center>  
 
 :rocket: Sou Software Engineer há 20 anos | Sr Tech Lead na @eybrasil
-:compass: Falo e vivo Tecnologia, Inovação, Liderança, Inteligência Artificial, Machine Learning, Master Black Belt, Data Science, DEPC® 
+:compass: Falo e vivo Tecnologia, Inovação, Liderança, Inteligência Artificial, Machine Learning, Data Science, Master Black Belt, Data Science, DEPC® 
 
 💙	Meu Linkedin e onde também escrevo artigos regularmente https://www.linkedin.com/in/edersonmelo
 
@@ -21,7 +21,7 @@ Meus links, me siga nas outras redes sociais: https://edersonmelo.com
 
 :rocket: I've been a Software Engineer for 20 years | Sr Tech Lead at @eybrasil
 
-:compass: I speak and live Technology, Innovation, Leadership, Artificial Intelligence, Machine Learning, Master Black Belt, Data Science, DEPC®
+:compass: I speak and live Technology, Innovation, Leadership, Artificial Intelligence, Machine Learning, Data Science, Master Black Belt, Data Science, DEPC®
 
 💙 My Linkedin is where I also write articles regularly https://www.linkedin.com/in/edersonmelo
 
