@@ -10,12 +10,13 @@
   </table>
 </center>  
 
-:rocket: Sou Software Engineer há 20 anos | Sr Tech Lead na @eybrasil
-:compass: Falo e vivo Tecnologia, Inovação, Liderança, Inteligência Artificial, Machine Learning, Data Science, Master Black Belt, Data Science, DEPC® 
+:rocket: Sou Engenheiro de Sfotware há 20 anos | Atualmente Sr Tech Lead na @eybrasil
+:compass: Sou Especializado em Lidernaça Técnica, Arquiteto Soluções, Engenheiro Software e também estou evoluindo em Machine Learning, GenAI, DEPC e Blockchain
 
 💙	Meu Linkedin e onde também escrevo artigos regularmente https://www.linkedin.com/in/edersonmelo
 
-Meus links, me siga nas outras redes sociais: https://edersonmelo.com 
+Todos os Meus links estão em: https://edersonmelo.com 
+Aproveita e me siga nas outras redes sociais 
 
 ---
 
