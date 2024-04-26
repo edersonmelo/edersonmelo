@@ -11,11 +11,13 @@
 </center>  
 
 :rocket: Sou Engenheiro de Sfotware há 20 anos | Atualmente Sr Tech Lead na @eybrasil
+
 :compass: Sou Especializado em Lidernaça Técnica, Arquiteto Soluções, Engenheiro Software e também estou evoluindo em Machine Learning, GenAI, DEPC e Blockchain
 
 💙	Meu Linkedin e onde também escrevo artigos regularmente https://www.linkedin.com/in/edersonmelo
 
 Todos os Meus links estão em: https://edersonmelo.com 
+
 Aproveita e me siga nas outras redes sociais 
 
 ---
