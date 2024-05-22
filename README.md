@@ -1,4 +1,4 @@
-[![capa](https://github.com/edersonmelo/edersonmelo/blob/a44b18552d0fe202c89e66acbc56ff9f60cb367e/edersonmelo-linkedin.png)](https://github.com/edersonmelo?tab=repositories)
+[![capa](https://github.com/edersonmelo/edersonmelo/blob/f20d6afb4de75a9dad9b6b9d05278aa9e534629b/edersonmelo-com.png)](https://github.com/edersonmelo?tab=repositories)
 ---
 
 <center>
