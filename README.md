@@ -12,7 +12,7 @@
 
 :rocket: Sou Engenheiro de Software há 20 anos | Atualmente Sr Tech Lead na @eybrasil
 
-:compass: Sou Especializado em Lidernaça Técnica, Arquiteto Soluções, Engenheiro Software e também estou evoluindo em Machine Learning, GenAI, DEPC e Blockchain
+:compass: Sou Especializado em Lidernaça Técnica, Arquiteto Soluções, Engenheiro Software e também estou evoluindo em Machine Learning, GenAI & LLM, DEPC e Blockchain
 
 💙	Meu Linkedin e onde também escrevo artigos regularmente https://www.linkedin.com/in/edersonmelo
 
@@ -24,7 +24,7 @@ Aproveita e me siga nas outras redes sociais
 
 🚀 I've been a Software Engineer for 20 years | Currently Sr Tech Lead at @eybrasil
 
-🧭 I specialize in Technical Leadership, Solutions Architect, Software Engineer and I am also developing in Machine Learning, GenAI, DEPC and Blockchain
+🧭 I specialize in Technical Leadership, Solutions Architect, Software Engineer and I am also developing in Machine Learning, GenAI & LLM, DEPC and Blockchain
 
 💙 My Linkedin is where I also write articles regularly https://www.linkedin.com/in/edersonmelo
 
