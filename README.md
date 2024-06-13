@@ -27,8 +27,6 @@ Enjoy and follow me on other social networks
 - 📈 Machine Learning
 - 🤖 Deep Learning
 - 🧠 Neural Networks
-- 👁️ FrontEnd
-- 🔠 Natural Language Processing
 - 💬 Large Language Models
 - 🔲 Blockchain
 
