@@ -1,41 +1,39 @@
 [![capa](https://github.com/edersonmelo/edersonmelo/blob/f20d6afb4de75a9dad9b6b9d05278aa9e534629b/edersonmelo-com.png)](https://github.com/edersonmelo?tab=repositories)
 ---
+### Hi there 👋
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersonmelo&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=edersonmelo&theme=buefy" /></td>
-    </tr>   
-  </table>
-</center>  
+:rocket: I'm Ederson Melo, I've been a Software Engineer.
 
-:rocket: Sou Engenheiro de Software há 20 anos | Atualmente Sr Tech Lead na @eybrasil
+:computer: Currently Sr Tech Lead at @eybrasil.
 
-:compass: Sou Especializado em Lidernaça Técnica, Arquiteto Soluções, Engenheiro Software e também estou evoluindo em Machine Learning, GenAI & LLM, DEPC e Blockchain
+:compass: I am a specialist in Technical Leadership, Solutions Architect, Software Engineer with over 20 years.
 
-💙	Meu Linkedin e onde também escrevo artigos regularmente https://www.linkedin.com/in/edersonmelo
+ 🤖 developing in Machine Learning, GenAI & LLM, DEPC and Blockchain.
 
-Todos os Meus links estão em: https://edersonmelo.com 
 
-Aproveita e me siga nas outras redes sociais 
 
----
+## Get in touch
+[![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/edersonmelo/) My Linkedin is where I also write articles regularly https://www.linkedin.com/in/edersonmelo
 
-🚀 I've been a Software Engineer for 20 years | Currently Sr Tech Lead at @eybrasil
-
-🧭 I specialize in Technical Leadership, Solutions Architect, Software Engineer and I am also developing in Machine Learning, GenAI & LLM, DEPC and Blockchain
-
-💙 My Linkedin is where I also write articles regularly https://www.linkedin.com/in/edersonmelo
-
-All My links are at: https://edersonmelo.com
+💙 All My links are at: https://edersonmelo.com
 
 Enjoy and follow me on other social networks
 
+[![](https://img.shields.io/badge/instagram-ff69b4)](https://www.instagram.com/edersonmmelo/)
 
----
 
-**Tecnologias (Technologies)**
+## Things I am passionate about
+
+- 📈 Machine Learning
+- 🤖 Deep Learning
+- 🧠 Neural Networks
+- 👁️ FrontEnd
+- 🔠 Natural Language Processing
+- 💬 Large Language Models
+
+
+## Technologies
+
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="java" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="30" height="30"/>
@@ -53,7 +51,11 @@ Enjoy and follow me on other social networks
 </p>
 
 
----
-
-[![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/edersonmelo/)
-[![](https://img.shields.io/badge/instagram-ff69b4)](https://www.instagram.com/edersonmmelo/)
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersonmelo&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=edersonmelo&theme=buefy" /></td>
+    </tr>   
+  </table>
+</center>  
