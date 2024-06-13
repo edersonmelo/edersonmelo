@@ -8,7 +8,7 @@
 
 :compass: I am a specialist in Technical Leadership, Solutions Architect, Software Engineer with over 20 years.
 
- 🤖 developing in Machine Learning, GenAI & LLM, DEPC, Blockchain and Lean Black Belt.
+ 🤖 developing in Machine Learning, GenAI & LLM and Blockchain.
 
 
 
