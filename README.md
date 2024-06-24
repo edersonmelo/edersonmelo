@@ -46,7 +46,17 @@ Enjoy and follow me on other social networks
   <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="tensorflow" width="30" height="30"/>
-  
+ 
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="tensorflow" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="tensorflow" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="tensorflow" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="tensorflow" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="tensorflow" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="tensorflow" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="tensorflow" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="tensorflow" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="tensorflow" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="tensorflow" width="30" height="30"/>
 </p>
 
 
