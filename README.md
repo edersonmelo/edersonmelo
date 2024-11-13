@@ -24,6 +24,7 @@ Enjoy and follow me on other social networks
 
 ## Things I am passionate about
 
+- 👋 Front End
 - 📈 Machine Learning
 - 🤖 Deep Learning
 - 🧠 Neural Networks
