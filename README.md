@@ -2,13 +2,13 @@
 ---
 ### Hi there 👋
 
-:rocket: I'm Ederson Melo, I've been a Software Engineer.
+:rocket: I'm Ederson Melo, I've been a Software Engineer Manager.
 
-:computer: Currently Sr Tech Lead at @eybrasil.
+:computer: Currently Sr Technology Specialist at @eybrasil.
 
-:compass: I am a specialist in Technical Leadership, Solutions Architect, Software Engineer with over 20 years.
+:compass: I am a Technical Leadership Specialist, Solutions Architect, Software Engineer, 3x Oracle Certified, Frontend, AI & Data and DevOps with over 20 years of experience..
 
- 🤖 developing in Machine Learning, GenAI & LLM and Blockchain.
+ 🤖 front end and developing in Machine Learning, GenAI & LLM and Blockchain.
 
 
 
@@ -24,11 +24,9 @@ Enjoy and follow me on other social networks
 
 ## Things I am passionate about
 
-- 👋 Front End
-- 📈 Machine Learning
-- 🤖 Deep Learning
-- 🧠 Neural Networks
-- 💬 Large Language Models
+- 💬 Front End
+- 🤖 IA & Data
+- 🧠 Documentation
 - 🔲 Blockchain
 
 
