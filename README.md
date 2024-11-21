@@ -17,9 +17,8 @@
 
 💙 All My links are at: https://edersonmelo.com
 
-Enjoy and follow me on other social networks
+Enjoy and follow me on other social networks.
 
-[![](https://img.shields.io/badge/instagram-ff69b4)](https://www.instagram.com/edersonmmelo/)
 
 
 ## Things I am passionate about
