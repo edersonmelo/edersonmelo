@@ -4,8 +4,6 @@
 
 :compass: I'm a Leadership Specialist, Solutions and Software Architect, Software Engineer, 4x Oracle Certified, AI & Data, Frontend and DevOps with over 20 years of experience..
 
-🤖 Front end and development in Machine Learning, GenAI & LLM and Blockchain.
-
 🦙 Founder and Community Manager at Llama Brasil
 
 ## Get in touch
