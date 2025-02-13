@@ -1,10 +1,10 @@
-:rocket: I'm Ederson Melo, I'm a Specialist in Architecture and Engineering of Solutions and Software for AI and Data.
+🚀 I'm Ederson Melo, I'm a Specialist in Software Architecture and Engineering, Data, AI and Cloud.
 
-:computer: Currently a Solutions Architect at @eybrasil.
+💻 Currently a Solutions Architect at @eybrasil.
 
-:compass: I'm a Leadership Specialist, Solutions and Software Architect, Software Engineer, 4x Oracle Certified, AI & Data, Frontend and DevOps with over 20 years of experience..
+🧭 I'm a Leadership Specialist, Solutions and Software Architect, Software Engineer, 4x Oracle Certified, AI & Data, Cloud, Frontend and DevOps.
 
-🦙 Founder and Community Manager at Llama Brasil
+🦙 Founder of Astrowork Academy.
 
 ## Get in touch
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/edersonmelo/) My Linkedin is where I also write articles regularly https://www.linkedin.com/in/edersonmelo
