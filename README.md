@@ -5,10 +5,10 @@
 🦙 Founder of Astrowork Academy.
 
 ## My certifications include:
-• 4x Oracle Certified.
-• Data Science Certificate program from IBM.
-• Al Engineering Professional Certificate program from IBM.
-• DevOps Certified.
+- 4x Oracle Certified.
+- Data Science Certificate program from IBM.
+- Al Engineering Professional Certificate program from IBM.
+- DevOps Certified.
 
 In addition, I'm doing my 2nd Bachelor's Degree in AI & Data Science and have academic specializations in AI, Data Science, Cloud, Mobile, Cyber ​​Defense and Project Management, which allows me to integrate technology and business in a strategic and results-oriented way.
 
