@@ -1,8 +1,6 @@
-🚀 I'm Ederson Melo, I'm a Specialist in Software Architecture and Engineering, Data, AI and Cloud.
+🚀 I'm Ederson Melo, I'm a Solutions Architect and Data & AI Consultant, a Specialist in Software Architecture and Engineering, Data, AI and Cloud.
 
-💻 Currently a Solutions Architect at @eybrasil.
-
-🧭 I'm a Leadership Specialist, Solutions and Software Architect, Software Engineer, 4x Oracle Certified, AI & Data, Cloud, Frontend and DevOps.
+🧭 I'm a Leadership Specialist, Solutions and Software Architect, Software Engineer, 4x Oracle Certified, AI and Data, Cloud, Frontend and DevOps.
 
 🦙 Founder of Astrowork Academy.
 
@@ -15,7 +13,7 @@ Take advantage and follow me on other social networks.
 
 ## Things I'm passionate about
 
-- 💬 Front End
+- 💬 Architecture and Engineering
 - 🤖 AI and Data
 - 🧠 Documentation
 - 🔲 Blockchain
