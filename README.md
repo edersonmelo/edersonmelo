@@ -1,8 +1,6 @@
-🚀 I'm Ederson Melo, I'm a Solutions Architect and Data and AI Consultant.
+🚀 I'm Ederson Melo, Machine Learning and AI Leader.
 
 🧭 I'm a Leadership Specialist, Solutions and Software Architect, 4x Oracle Certified, Data Engineering, Data Science, AI Engineering, and Software and Cloud Architecture and Engineering.
-
-🦙 Founder of Astrowork Academy.
 
 ## My certifications include:
 - 4x Oracle Certified.
