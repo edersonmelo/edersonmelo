@@ -1,6 +1,6 @@
 🚀 I'm Ederson Melo, Machine Learning and AI Leader.
 
-🧭 I'm a Technical Leader in Machine Learning and AI with over 20 years of experience in Software and Data Architecture and Engineering.
+🧭 I'm a Technical Leader in AI and Machine Learning, with over 20 years of experience in Software Architecture and Engineering, Data, and Cloud.
 
 ## My certifications include:
 - 4x Oracle Certified.
@@ -9,17 +9,9 @@
 - DevOps Certified.
 - GitHub Foundations.
 
-In addition, I'm doing my 2nd Bachelor's Degree in AI & Data Science and have academic specializations in AI, Data Science, Cloud, Mobile, Cyber ​​Defense and Project Management, which allows me to integrate technology and business in a strategic and results-oriented way.
+I am a Master's student in Education and I produce educational content on AI, Machine Learning, and Engineering, bringing a practical, accessible, and future-oriented approach. I believe that technology only transforms when it also educates and when it creates autonomy, not dependence.
 
-## Main Specializations:
-- Artificial Intelligence Engineering in Machine Learning and Deep Learning.
-- Software Architecture.
-- Data Architecture.
-- Software Engineering.
-- Data Engineering.
-- Cloud Engineering.
-- Cloud Computing and DevOps.
-- Mobile Projects and Distributed Systems.
+I believe that the next phase of technology will be guided not only by algorithms, but by people capable of integrating intelligence, purpose, and execution. And that is where I build my work.
 
 ## Get in touch
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/edersonmelo/) My Linkedin is where I also write articles regularly https://www.linkedin.com/in/edersonmelo
