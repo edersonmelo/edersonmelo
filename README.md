@@ -26,3 +26,4 @@ Take advantage and follow me on other social networks.
 - 💬 Architecture and Engineering
 - 🤖 AI and Data
 - 🔲 Blockchain
+- ⚛️ Computação Quântica
