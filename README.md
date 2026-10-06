@@ -1,31 +1,67 @@
-🚀 I’m Ederson Melo, an AI Leader, AI Engineer, and specialist in AI Engineering, Machine Learning, and Data Science, as well as an educator.
+# Ederson Melo
 
-🧭 I work as a Technical Leader in AI and Data Science, bringing over 20 years of experience in Software, Data, and Cloud Architecture and Engineering.
+**AI Engineer • AI Solution Architecture • AI Engineering • Machine Learning • Data Science**
 
-## My certifications include:
-- 4 Oracle certifications.
-- IBM Data Science Certification Program.
-- IBM AI Engineering Professional Certification Program.
-- DevOps Certification.
-- GitHub Foundations.
+I build AI systems, experiment with emerging technologies, and explore new ways of working with software and intelligence.
 
-I am currently pursuing a Master’s degree in Education and create educational content on careers, technology, and Artificial Intelligence, offering a practical, accessible, and future-oriented approach. I believe technology truly transforms lives only when it educates and fosters autonomy rather than dependency.
+I have 20+ years of experience across Software Engineering, Data, Cloud, Architecture, and Technology Leadership, and currently work at the intersection of **AI Engineering, Data Science, and technical leadership**.
 
-I believe the next phase of technology will be driven not just by algorithms, but by people capable of integrating intelligence, purpose, and execution. That is the foundation of my work.
+My work is driven by a simple idea:
 
-## Where to follow me
-[![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/edersonmelo/) I also regularly write articles on LinkedIn: https://www.linkedin.com/in/edersonmelo
+> Technology becomes more powerful when people understand it, experiment with it, and gain autonomy through it.
 
-[![](https://img.shields.io/badge/youtube-red)](https://www.youtube.com/edersonmelo) My YouTube channel: https://www.youtube.com/edersonmelo
+## What I work with
 
-💙 Find all my links here: https://edersonmelo.com
+- 🤖 AI Engineering & Generative AI
+- 🧠 Machine Learning & Data Science
+- 🏗️ AI Solution Architecture
+- 💻 Software Engineering
+- ☁️ Cloud & Data Architecture
+- 🧪 AI experimentation & prototyping
+- 🎓 AI Education & Literacy
 
-Feel free to follow me on other social media platforms as well.
+## What you'll find here
 
-## Topics I’m passionate about
+This GitHub is my technical laboratory.
 
-- 🧠 Technical Leadership
-- 💬 Architecture and Engineering
-- 🤖 AI and Data
-- 🔲 Blockchain
-- ⚛️ Quantum Computing
+I use it to build, experiment, learn, and share:
+
+- AI applications and agents
+- Machine Learning experiments
+- Developer tools
+- iOS & macOS applications
+- APIs and backend systems
+- AI-assisted software engineering
+- Open-source experiments
+- Proofs of concept with emerging technologies
+
+Some repositories are production-oriented. Others are experiments.
+
+Both are part of how I learn.
+
+## Background
+
+- 20+ years in Software, Data, Cloud, and Architecture
+- AI & Data Science leadership
+- IBM Data Science Professional Certification
+- IBM AI Engineering Professional Certification
+- 4 Oracle certifications
+- DevOps Certification
+- GitHub Foundations
+- Master's degree in Education — in progress
+
+I also create educational content about **AI, technology, careers, and the future of work**.
+
+## Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/edersonmelo/)
+- [YouTube](https://www.youtube.com/edersonmelo)
+- [Website](https://edersonmelo.com)
+
+---
+
+### Philosophy
+
+**Learn. Build. Experiment. Share.**
+
+I believe the next phase of technology will not be defined only by more powerful models, but by people who can connect **intelligence, engineering, purpose, and execution.**
